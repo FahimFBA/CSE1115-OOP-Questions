@@ -8,6 +8,19 @@
 
 <h2 align="center"> Mid-Term </h2>
 ----
+
+
+![Go to the folder =>](https://github.com/FahimFBA/Previous-OOP-Questions/tree/main/Mid)
+
 <hr>
 
-![Go to the folder =>](/Mid)
+<br>
+
+
+<h2 align="center"> Final-Term </h2>
+----
+
+
+![Go to the folder =>](https://github.com/FahimFBA/Previous-OOP-Questions/tree/main/Final)
+
+<hr>
